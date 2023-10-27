@@ -19,10 +19,6 @@ https://dribbble.com/shots/19807069-Ahead-app-redesign-concept
 ## Live Link
 https://density-exchange-ahead-app-task.vercel.app
 
-# Preview
-
-
-https://github.com/PrateekPheonix/Density.exchange-AheadApp-Task/assets/76847182/66c597f0-7638-4868-bc97-18dba2b72b5c
 
 <br/>
 <br/>
